@@ -1,0 +1,24 @@
+{
+  "name": "automatingsaucedemo",
+  "version": "1.0.0",
+  "description": "Automating saucedemo, A user logs in with valid credentials, adds one product to the cart, verifies the product name in the cart, and logs out.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KongkaMozumderSUST/AutomatingSaucedemo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/KongkaMozumderSUST/AutomatingSaucedemo/issues"
+  },
+  "homepage": "https://github.com/KongkaMozumderSUST/AutomatingSaucedemo#readme",
+  "dependencies": {
+    "@playwright/test": "^1.56.1"
+  }
+}
